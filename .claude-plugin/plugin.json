@@ -1,0 +1,9 @@
+{
+  "name": "stock-price-plugin",
+  "description": "Alpha Vantage APIを使用してリアルタイムの株価データを取得するMCPツール",
+  "version": "1.0.0",
+  "author": {
+    "name": "Claude Code User"
+  },
+  "keywords": ["stock", "finance", "api", "alpha-vantage", "tool-use"]
+}

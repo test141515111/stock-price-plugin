@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "stock-price": {
+      "command": "python3",
+      "args": ["mcp_server.py"],
+      "env": {
+        "ALPHA_VANTAGE_API_KEY": "RONQWNN6SY7YQVHH"
+      }
+    }
+  }
+}
